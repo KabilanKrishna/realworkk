@@ -35,7 +35,7 @@ public class Login {
 
         Thread.sleep(15000);
         // Print a message after successful navigation
-        System.out.println("Login Successful");
+        System.out.println("Login Successful Done");
 		
 	}
 
